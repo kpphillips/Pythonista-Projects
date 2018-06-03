@@ -2,8 +2,8 @@
 
 
 #### Table of Contents
-1. [Face Recognition](#FaceRecognition)
-2. [Chicago CTA API](#ChicagoCTAAPI)
+1. [Face Recognition](#1-face-recognition)
+2. [Chicago CTA API](#2-chicago-cta-api)
 
 
 #### 1. Face Recognition
