@@ -19,9 +19,9 @@
 ##### Road Trip Scholar - is an application built using The Pythonista iOS application written in Python.
 
 ##### How it works
-* Uses Pythonista's location module to determine the users location, uses reverse geocode to determine a list of nearby cities/neighborhoods
+* Uses Pythonista's location module to determine the users location, then uses reverse geocode to determine a list of nearby cities/neighborhoods
 
-* Using the 3rd art wikepedia module to search for the local info and presents that to the user. 
+* Next, using the 3rd party wikipedia module to search for the local info and presents that to the user. 
 
 
 
