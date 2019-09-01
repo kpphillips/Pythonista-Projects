@@ -1,6 +1,6 @@
 access_token=''
 
-refresh_token='4pDw38P8NlnKZxbjR6rSSo4TKzx5A6En7oXJDf93JU'
+refresh_token=''
 
 token_type='Bearer'
 
