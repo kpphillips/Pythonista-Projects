@@ -27,6 +27,11 @@
 ##### Autodesk Forge APIs - is a project created to explore the different APIs in a mobile environment and on the go.  The Pythonista iOS application written in Python.
 
 ##### How it works
+
+* First create a project on https://forge.autodesk.com/
+
+* client_keys.py - Enter keys in this file as strings once you obtain them from creating your project. 
+
 * forge_auth.py - select and run the script to begin the Oauth 3-legged workflow and sign in with your Autodesk credentials. The script will save the needed token to a stubbed python file.  , forgeauth_response_keys.py
 
 * Other APIs exploration coming soon...
